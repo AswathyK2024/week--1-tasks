@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Clone</title>
+  <style>
+    /* Add basic styles here or link to an external stylesheet */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    header {
+      background-color: #f9f9f9;
+      padding: 10px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    header .logo {
+      font-size: 20px;
+      font-weight: bold;
+      color: red;
+    }
+    header .search-bar {
+      flex: 1;
+      margin: 0 20px;
+    }
+    header .search-bar input {
+      width: 100%;
+      padding: 8px;
+    }
+    .sidebar {
+      width: 200px;
+      background: #f1f1f1;
+      padding: 10px;
+      position: fixed;
+      top: 60px;
+      bottom: 0;
+    }
+    .content {
+      margin-left: 220px;
+      padding: 20px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 15px;
+    }
+    .video-card {
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      overflow: hidden;
+      background: #fff;
+    }
+    .video-card img {
+      width: 100%;
+      height: auto;
+    }
+    .video-card .info {
+      padding: 10px;
+    }
+    .footer {
+      text-align: center;
+      padding: 10px;
+      background: #eee;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <div class="logo">YouTube Clone</div>
+    <div class="search-bar">
+      <input type="text" placeholder="Search...">
+    </div>
+    <div class="user-menu">Profile</div>
+  </header>
+
+  <!-- Sidebar Section -->
+  <div class="sidebar">
+    <ul>
+      <li>Home</li>
+      <li>Trending</li>
+      <li>Subscriptions</li>
+      <li>Library</li>
+    </ul>
+  </div>
+
+  <!-- Main Content Area -->
+  <div class="content">
+    <div class="video-card">
+      <img src="https://via.placeholder.com/250x150" alt="Thumbnail">
+      <div class="info">
+        <h4>Video Title</h4>
+        <p>Channel Name</p>
+      </div>
+    </div>
+    <div class="video-card">
+      <img src="https://via.placeholder.com/250x150" alt="Thumbnail">
+      <div class="info">
+        <h4>Video Title</h4>
+        <p>Channel Name</p>
+      </div>
+    </div>
+    <!-- Add more video cards -->
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2024 YouTube Clone</p>
+  </footer>
+
+</body>
+</html>
+

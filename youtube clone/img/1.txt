@@ -1,0 +1,47 @@
+1
+<a href="https://www.youtube.com/watch?v=VbgNAelne_c"<img src="https://via.placeholder.co/300x180" alt="Thumbnail"></a>
+<div class="info"></div>
+            <p class="video-title">Learn GenAI Skills</p>
+            <p class="video-data">Udemy • 62k views • 1 year ago</p>
+          </div>
+2
+<a href="https://www.youtube.com/watch?v=K1HNlinkep8&t=19s" alt=""></a>
+          <div class="info">
+            <p class="video-title">Tips to Pass Brocamp</p>
+            <p class="video-meta">Brototype Malayalam • 156k views • 1year ago</p>
+              
+          </div>
+3
+<a href="https://www.youtube.com/watch?v=v6JVIHuxgJ0" alt=""></a>
+          <div class="info">
+              <p class="video-title">Work from home</p>
+              <p class="video-data">Online money making Malayalam • 150k views • 12days ago</p>
+          </div>
+4
+<a href="https://www.youtube.com/watch?v=7azCOKryADA" alt=""></a>
+            <div class="info">
+               <p class="video-title">SQL - Complete 5 Hours One Shot Tutorial for Beginners | Full SQL Course In Hindi MySQL postgreSQL</p>
+               <p class="video-data">Theiscale <br> 12k views • 3days ago</p>
+            </div>
+          <button style="background-color: crimson;">PREMIERE</button>
+        </div>
+        <br>
+5
+<a href="https://www.youtube.com/watch?v=sXcVjMfz_Hs"<img src="index.html" alt=""></a>
+            <div class="info">
+              <p class="video-title">How You Can Make ₹1 Crore/Month in India | ft. Ishan Suri | Ep 147 The Sanskar Show</p>
+              <p class="video-data">Theiscale <br> 257k views • 1month ago</p>
+            </div>
+7
+<a href="https://www.youtube.com/watch?v=Jy7OekLLBds" alt=""></a>
+            <div class="info">
+             <p class="video-title">Part 18 | javascript advanced interview questions | advanced javascript full course</p>
+             <p class="video-data">WEZLON • 1.Sk views • 3years ago</p>
+            </div>
+8
+<a href="https://www.youtube.com/watch?v=Jy7OekLLBds" alt=""></a>
+            <div class="info">
+                <p class="video-title">പുതിയതായി IT യിലേക്ക് വരുന്നവർ ചതിക്കുഴികളിൽ വീഴാതെ എങ്ങനെ രക്ഷപ്പെടാം|#trending #sparkstories
+                </p>
+                <p class="video-data">Aitrich Aacademy <br> 3.6k views • 1month ago</p>
+            </div>
